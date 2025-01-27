@@ -1,0 +1,22 @@
+.box{
+	width: 80%;
+	height: 20%;
+	background-color: tomato;
+	margin: 100 0 100;
+
+}
+.box2{
+	font-size: 32px;
+	width: 80% ;
+	height: 5%;
+	background-color: purple;
+
+	padding: 100px;
+}
+
+img{
+	float:left;
+	width:500px;
+	height:auto;
+	margin-right:15px;"
+}
